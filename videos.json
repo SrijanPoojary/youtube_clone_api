@@ -1,12 +1,12 @@
 [
   {
-    "title": "Flutter Tutorial",
-    "thumbnailUrl": "https://picsum.photos/800/400?random=1",
-    "channel": "Tech Channel"
+    "title": "Flutter YouTube Clone",
+    "channel": "Srijan Tech",
+    "thumbnail": "https://picsum.photos/200"
   },
   {
-    "title": "Dart Crash Course",
-    "thumbnailUrl": "https://picsum.photos/800/400?random=2",
-    "channel": "Code Channel"
+    "title": "Building UI with Dart",
+    "channel": "Code Bro",
+    "thumbnail": "https://picsum.photos/201"
   }
 ]
