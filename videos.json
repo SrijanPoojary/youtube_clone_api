@@ -1,12 +1,12 @@
 [
   {
-    "title": "Flutter YouTube Clone",
-    "channel": "Srijan Tech",
-    "thumbnail": "https://picsum.photos/200"
+    "title": "Flutter Tutorial",
+    "channel": "Tech Channel",
+    "thumbnail": "https://picsum.photos/id/237/200/150"
   },
   {
-    "title": "Building UI with Dart",
-    "channel": "Code Bro",
-    "thumbnail": "https://picsum.photos/201"
+    "title": "Dart Crash Course",
+    "channel": "Code Channel",
+    "thumbnail": "https://picsum.photos/id/238/200/150"
   }
 ]
